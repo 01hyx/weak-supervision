@@ -1,0 +1,8 @@
+{
+  "experiment_name": "frequency_wavelet_adaptation",
+  "model_type": "FreqTuneRS3Mamba",
+  "use_frequency_enhance": true,
+  "frequency_module": "wavelet",
+  "checkpoint": "manual_tiles_finetune_frequency_best/best.pth",
+  "threshold": 0.6
+}

@@ -1,0 +1,8 @@
+{
+  "experiment_name": "qingdao_boundary_refine",
+  "model_type": "FreqTuneRS3Mamba",
+  "use_frequency_enhance": true,
+  "frequency_module": "wavelet",
+  "checkpoint": "qingdao_boundary_refine/best.pth",
+  "threshold": 0.55
+}

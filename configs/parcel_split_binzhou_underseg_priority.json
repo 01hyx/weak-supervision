@@ -1,0 +1,9 @@
+{
+  "best_params": {
+    "seed_distance": 4.0,
+    "minimum_seed_area": 10,
+    "minimum_object_area": 300,
+    "edge_weight": 0.5,
+    "maximum_seeds": 12
+  }
+}

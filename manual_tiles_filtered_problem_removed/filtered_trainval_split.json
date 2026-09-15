@@ -1,0 +1,707 @@
+{
+  "train": [
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0013_c0009_y01664_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0017_c0012_y02176_x01536.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0006_c0009_y00768_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0014_c0006_y01792_x00768.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0007_c0011_y00896_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0015_c0008_y01920_x01024.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0003_c0011_y00384_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0012_c0009_y01536_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0016_c0009_y02048_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0010_c0008_y01280_x01024.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0004_c0012_y00512_x01536.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0018_c0012_y02304_x01536.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0016_c0013_y02048_x01664.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0009_c0010_y01152_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0011_c0008_y01408_x01024.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0017_c0011_y02176_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0006_c0011_y00768_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0015_c0009_y01920_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0020_c0010_y02560_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0001_c0010_y00128_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0019_c0011_y02432_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0014_c0009_y01792_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0005_c0009_y00640_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0018_c0010_y02304_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0005_c0010_y00640_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0005_c0011_y00640_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0011_c0009_y01408_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0013_c0007_y01664_x00896.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0008_c0009_y01024_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0017_c0010_y02176_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0008_c0008_y01024_x01024.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0003_c0010_y00384_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0017_c0013_y02176_x01664.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0002_c0009_y00256_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0004_c0013_y00512_x01664.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0009_c0007_y01152_x00896.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0006_c0008_y00768_x01024.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0010_c0009_y01280_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0006_c0010_y00768_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0003_c0008_y00384_x01024.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0003_c0009_y00384_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0017_c0009_y02176_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0019_c0012_y02432_x01536.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0003_c0013_y00384_x01664.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0014_c0008_y01792_x01024.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0005_c0012_y00640_x01536.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0017_c0014_y02176_x01792.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0016_c0010_y02048_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0003_c0014_y00384_x01792.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0013_c0008_y01664_x01024.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0001_c0009_y00128_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0014_c0007_y01792_x00896.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0019_c0013_y02432_x01664.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0009_c0009_y01152_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0019_c0014_y02432_x01792.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0008_c0030_y01024_x03840.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0015_c0035_y01920_x04480.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0006_c0006_y00768_x00768.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0007_c0001_y00896_x00128.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0008_c0034_y01024_x04352.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0007_c0029_y00896_x03712.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0006_c0005_y00768_x00640.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0009_c0006_y01152_x00768.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0015_c0036_y01920_x04608.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0005_c0003_y00640_x00384.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0005_c0004_y00640_x00512.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0008_c0029_y01024_x03712.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0008_c0006_y01024_x00768.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0011_c0035_y01408_x04480.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0012_c0038_y01536_x04864.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0007_c0003_y00896_x00384.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0009_c0007_y01152_x00896.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0009_c0033_y01152_x04224.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0008_c0004_y01024_x00512.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0016_c0035_y02048_x04480.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0008_c0028_y01024_x03584.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0012_c0037_y01536_x04736.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0006_c0007_y00768_x00896.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0011_c0004_y01408_x00512.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0006_c0031_y00768_x03968.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0016_c0036_y02048_x04608.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0011_c0036_y01408_x04608.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0009_c0030_y01152_x03840.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0007_c0004_y00896_x00512.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0016_c0034_y02048_x04352.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0009_c0034_y01152_x04352.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0010_c0005_y01280_x00640.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0011_c0033_y01408_x04224.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0007_c0005_y00896_x00640.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0006_c0004_y00768_x00512.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0013_c0005_y01664_x00640.tif"
+    }
+  ],
+  "val": [
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0022_c0012_y02816_x01536.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0006_c0012_y00768_x01536.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0008_c0010_y01024_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0012_c0007_y01536_x00896.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0010_c0010_y01280_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0012_c0008_y01536_x01024.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0004_c0009_y00512_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0020_c0011_y02560_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0018_c0011_y02304_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0007_c0010_y00896_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0007_c0008_y00896_x01024.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0019_c0010_y02432_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0021_c0011_y02688_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0002_c0014_y00256_x01792.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0015_c0007_y01920_x00896.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0004_c0008_y00512_x01024.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0018_c0013_y02304_x01664.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0004_c0010_y00512_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0005_c0008_y00640_x01024.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0007_c0009_y00896_x01152.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0008_c0007_y01024_x00896.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0008_c0011_y01024_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0002_c0010_y00256_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0004_c0011_y00512_x01408.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0008_c0033_y01024_x04224.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0012_c0005_y01536_x00640.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0005_c0030_y00640_x03840.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0012_c0036_y01536_x04608.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0006_c0003_y00768_x00384.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0008_c0007_y01024_x00896.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0007_c0006_y00896_x00768.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0010_c0034_y01280_x04352.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0011_c0037_y01408_x04736.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0008_c0003_y01024_x00384.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0008_c0032_y01024_x04096.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0009_c0029_y01152_x03712.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0007_c0002_y00896_x00256.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0007_c0007_y00896_x00896.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0015_c0034_y01920_x04352.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0010_c0033_y01280_x04224.tif"
+    }
+  ],
+  "excluded": [
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0004_c0014_y00512_x01792.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0005_c0013_y00640_x01664.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0005_c0014_y00640_x01792.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0006_c0013_y00768_x01664.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0009_c0011_y01152_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0010_c0011_y01280_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0011_c0010_y01408_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0012_c0010_y01536_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0013_c0006_y01664_x00768.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0013_c0010_y01664_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0014_c0010_y01792_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0015_c0010_y01920_x01280.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0015_c0011_y01920_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0016_c0011_y02048_x01408.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0016_c0012_y02048_x01536.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0018_c0014_y02304_x01792.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0020_c0012_y02560_x01536.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0021_c0012_y02688_x01536.tif"
+    },
+    {
+      "region": "滨城区3镇",
+      "sample": "滨城区3镇_tile_r0022_c0011_y02816_x01408.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0004_c0002_y00512_x00256.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0004_c0003_y00512_x00384.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0004_c0004_y00512_x00512.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0004_c0006_y00512_x00768.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0005_c0005_y00640_x00640.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0005_c0006_y00640_x00768.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0005_c0007_y00640_x00896.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0005_c0031_y00640_x03968.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0006_c0001_y00768_x00128.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0006_c0002_y00768_x00256.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0006_c0008_y00768_x01024.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0007_c0000_y00896_x00000.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0007_c0008_y00896_x01024.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0008_c0002_y01024_x00256.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0010_c0007_y01280_x00896.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0010_c0026_y01280_x03328.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0010_c0037_y01280_x04736.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0011_c0038_y01408_x04864.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0012_c0003_y01536_x00384.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0012_c0004_y01536_x00512.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0013_c0004_y01664_x00512.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0014_c0004_y01792_x00512.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0014_c0005_y01792_x00640.tif"
+    },
+    {
+      "region": "阳信县4镇",
+      "sample": "阳信县4镇_tile_r0014_c0006_y01792_x00768.tif"
+    }
+  ],
+  "unmatched": [],
+  "seed": 42,
+  "train_ratio": 0.7
+}

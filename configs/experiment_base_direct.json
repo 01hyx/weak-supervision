@@ -1,0 +1,7 @@
+{
+  "experiment_name": "base_rs3mamba_direct",
+  "model_type": "RS3Mamba",
+  "use_frequency_enhance": false,
+  "checkpoint": "results_shixun/RS3Mamba_epoch25_miou0.8634.pth",
+  "threshold": 0.12
+}

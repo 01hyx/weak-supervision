@@ -1,0 +1,7 @@
+{
+  "experiment_name": "regional_adaptation_no_frequency",
+  "model_type": "RS3Mamba",
+  "use_frequency_enhance": false,
+  "checkpoint": "manual_tiles_finetune_adaptation_no_frequency/best.pth",
+  "threshold": 0.65
+}
